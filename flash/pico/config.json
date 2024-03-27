@@ -1,0 +1,30 @@
+{
+    "wifi.ssid": "network-ssid-name-goes-here",
+    "wifi.password": "dont-commit-your-password-on-github",
+    "wifi.lowpower": false,
+    "wwvb.bus": 0,
+    "wwvb.address": 50,
+    "wwvb.irq": 4,
+    "wwvb.en": 16,
+    "wwvb.station": "sjc",
+    "debug.debug": false,
+    "debug.verbose": false,
+    "sjc": {
+        "name": "San José Mineta International Airport",
+        "location": [
+            37.363056,
+            -121.928611
+        ],
+        "masl": 18.9,
+        "antenna": null
+    },
+    "den": {
+        "name": "Colorado State Capitol Building",
+        "location": [
+            39.7393,
+            -104.9848
+        ],
+        "masl": 1609.0,
+        "antenna": null
+    }
+}
